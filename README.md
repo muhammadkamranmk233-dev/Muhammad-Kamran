@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently persuing mu bachlors in artificial intellegence<br>i am learning python and C++<br>i  am learning digital marketing<br>i am learning graphic designing<br>i am learning  Ai tools usage
+I am currently persuing mu bachlors in artificial intellegence<br>I am learning python and C++<br>I  am learning digital marketing<br>I am learning graphic designing<br>I am learning  Ai tools usage
 
 
 ## 🌐 Socials:
